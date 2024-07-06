@@ -1,0 +1,18 @@
+.News{
+    width: 80%;
+    margin-inline: auto;
+    margin-block: 40px;
+}
+
+input{
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+    border: 2px solid black;
+}
+
+button{
+    margin-bottom: 20px;
+    padding: 20px 60px;
+}
